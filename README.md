@@ -1,8 +1,5 @@
 <h1 align="center">🧠 Mental Health Simulator</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1F87E6&width=435&lines=Track+your+mood+daily+;Get+activity+suggestions+;Boost+your+mental+well-being+!" alt="Typing SVG" />
-</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
